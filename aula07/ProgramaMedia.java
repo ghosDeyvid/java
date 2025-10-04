@@ -1,5 +1,7 @@
 package aula07;
 
+import java.util.Scanner;
+
 public class ProgramaMedia {
     public static void main(String[] args) {
             
