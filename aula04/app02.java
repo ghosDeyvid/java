@@ -8,6 +8,7 @@ public class app02 {
         short numeroShort = 32767;
         int numeroMaior = -2147483647;
         long numeroLongo = -9223372036854775807L;
+        
         // Variáveis do tipo Ponto flutuantes
         float peso = 78.7f;
         double altura = 1.750089;
