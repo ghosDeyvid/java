@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeiroProgrma",
+            "request": "launch",
+            "mainClass": "PrimeiroProgrma",
+            "projectName": "java_3a326923"
+        },
+        {
+            "type": "java",
+            "name": "BemVindoJava",
+            "request": "launch",
+            "mainClass": "BemVindoJava",
+            "projectName": "java_3a326923"
+        },
+        {
+            "type": "java",
             "name": "OperadoresAriti",
             "request": "launch",
             "mainClass": "OperadoresAriti",
