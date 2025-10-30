@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OperadoresAriti",
+            "request": "launch",
+            "mainClass": "OperadoresAriti",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "ParseInt",
+            "request": "launch",
+            "mainClass": "ParseInt",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "TiposDeVariaves",
+            "request": "launch",
+            "mainClass": "TiposDeVariaves",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "IndiomaDoSistema",
             "request": "launch",
             "mainClass": "IndiomaDoSistema",
