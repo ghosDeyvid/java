@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "primeiroprograma",
+            "request": "launch",
+            "mainClass": "primeiroprograma",
+            "projectName": "java_3a326923"
+        },
+        {
+            "type": "java",
             "name": "PrimeiroProgrma",
             "request": "launch",
             "mainClass": "PrimeiroProgrma",
