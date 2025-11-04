@@ -12,7 +12,7 @@ public class OperadoresAriti {
         int ar = (int) Math.round(v);
         System.out.println(ar);*/ 
 
-        double ale = Math.random();
+        double ale = Matematica.random();
         int n = (int) (15 + ale * (50-15));
         System.out.println(n);
     }
