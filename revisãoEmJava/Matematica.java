@@ -4,7 +4,7 @@ public class Matematica {
         int ar = (int) Math.ceil(v);
         System.out.println(ar); */
 
-       double res, n1, n2;
+       double res;
 
        for (int i = 0; i < 10; i++){
        res = (int) (Math.random()*100);
