@@ -1,12 +1,15 @@
 public class MtRa {
     public static void main(String[] args) {
-        int l;
-        for (int i =0; i <10; i++){
-            l = (int) (Math.random()*10);
-            System.out.println(l);+
+       int a, b, c;
+       a= 5;
+       b= 10;
+       c =15;
+        boolean r;
+        r = ( a<=10) ^ (b >= c)? true : false ;
+        System.out.println(r);
+       
         }
     }
-}
 
-    
+
 
