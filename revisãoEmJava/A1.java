@@ -1,10 +1,11 @@
-import java.util.Scanner;
+
 
 public class A1 {
     public static void main(String[] args) {
-       Scanner sc = new Scanner(System.in);
-       System.out.println("Digite um número para a contagem: ");
-       int a = sc.nextInt();
-         ex06repetição.contagem(a);
+       Pessoas p1 = new Pessoas();
+
+       p1.setNome("Deyvid");
+       p1.setIdade(31);
+       p1.imprime();
 }
 }
